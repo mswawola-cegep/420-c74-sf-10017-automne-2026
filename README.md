@@ -30,27 +30,27 @@ Ateliers (travaux pratiques) du cours **420-C74-SF**, programme *Spécialiste en
 | 11 | Introduction à scikit-learn | `nbs/11-intro-scikit-learn/` *(à venir)* |
 | 12 | Algorithme des K plus proches voisins | `nbs/12-algorithme-knn/` |
 | 13 | Arbres de décision | `nbs/13-arbres-de-decision/` |
-| 14 | Bagging, forêts aléatoires et boosting | `nbs/14-bagging-forets-aleatoires-boosting/` |
-| 15 | Machines à vecteurs de support | `nbs/15-svm/` |
-| 16 | Métriques et évaluation des modèles de classification | `nbs/16-evaluation-models-classification/` |
-| 17 | Optimisation des hyperparamètres | `nbs/17-optimisation-des-hyperparametres-101/` |
-| 18 | Apprentissage ensembliste | `nbs/18-ensembles/` |
-| 19 | Introduction au partitionnement de données | — |
-| 20 | Partitionnement en K-moyennes | `nbs/20-partitionnement-k-moyennes/` |
-| 21 | Regroupement hiérarchique | `nbs/21-regroupement-hierarchique/` |
-| 22 | Validation du partitionnement | `nbs/22-validation-partitionnement/` |
-| 23 | DBSCAN et HDBSCAN | `nbs/23-dbscan/` |
-| 24 | Considérations pratiques sur le partitionnement | — |
-| 25 | Méthodes de partitionnement avancées | — |
-| 26 | Partitionnement : exemples d'application | — |
-| 27 | Analyse en composantes principales | — |
-| 28 | t-SNE | — |
-| 29 | Algorithme des plus proches voisins | `nbs/29-recherche-documents/` |
-| 30 | Métriques de distance | — |
-| 31 | Locality-Sensitive Hashing | `nbs/31-locality-sensitive-hashing/` |
-| 32 | Algorithme Apriori et règles d'association | `nbs/32-regles-association/` |
-| 33 | Détection d'anomalies | — |
-| 34 | Modèles de mélange (Gaussian Mixture Models) | — |
+| 15 | Bagging, forêts aléatoires et boosting | `nbs/15-bagging-forets-aleatoires-boosting/` |
+| 16 | Machines à vecteurs de support | `nbs/16-svm/` |
+| 17 | Métriques et évaluation des modèles de classification | `nbs/17-evaluation-models-classification/` |
+| 18 | Optimisation des hyperparamètres | `nbs/18-optimisation-des-hyperparametres-101/` |
+| 19 | Apprentissage ensembliste | `nbs/19-ensembles/` |
+| 20 | Introduction au partitionnement de données | — |
+| 21 | Partitionnement en K-moyennes | `nbs/21-partitionnement-k-moyennes/` |
+| 22 | Regroupement hiérarchique | `nbs/22-regroupement-hierarchique/` |
+| 23 | Validation du partitionnement | `nbs/23-validation-partitionnement/` |
+| 24 | DBSCAN et HDBSCAN | `nbs/24-dbscan/` |
+| 25 | Considérations pratiques sur le partitionnement | — |
+| 26 | Méthodes de partitionnement avancées | — |
+| 27 | Partitionnement : exemples d'application | — |
+| 28 | Analyse en composantes principales | — |
+| 29 | t-SNE | — |
+| 30 | Algorithme des plus proches voisins | `nbs/30-recherche-documents/` |
+| 31 | Métriques de distance | — |
+| 32 | Locality-Sensitive Hashing | `nbs/32-locality-sensitive-hashing/` |
+| 33 | Algorithme Apriori et règles d'association | `nbs/33-regles-association/` |
+| 34 | Détection d'anomalies | — |
+| 35 | Modèles de mélange (Gaussian Mixture Models) | — |
 
 ## Environnement de travail
 
