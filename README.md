@@ -24,12 +24,13 @@ Ateliers (travaux pratiques) du cours **420-C74-SF**, programme *Spécialiste en
 | 05 | Équation normale | `nbs/05-equation-normale/` |
 | 06 | Métriques et évaluation des modèles de régression | `nbs/06-metriques/` |
 | 07 | Régression logistique | `nbs/07-regression-logistique/` |
-| 08 | Dilemme biais-variance | `nbs/08-dilemme-biais-variance/` *(à venir)* |
-| 09 | Validation croisée | `nbs/09-validation-croisee/` |
-| 10 | Techniques de régularisation | `nbs/10-regularisation/` |
-| 11 | Introduction à scikit-learn | `nbs/11-intro-scikit-learn/` *(à venir)* |
-| 12 | Algorithme des K plus proches voisins | `nbs/12-algorithme-knn/` |
-| 13 | Arbres de décision | `nbs/13-arbres-de-decision/` |
+| 08 | Variables qualitatives | `nbs/08-variables-qualitatives/` |
+| 09 | Introduction à scikit-learn | `nbs/09-intro-scikit-learn/` *(à venir)* |
+| 10 | Dilemme biais-variance | `nbs/10-dilemme-biais-variance/` *(à venir)* |
+| 11 | Validation croisée | `nbs/11-validation-croisee/` |
+| 12 | Techniques de régularisation | `nbs/12-regularisation/` |
+| 13 | Algorithme des K plus proches voisins | `nbs/13-algorithme-knn/` |
+| 14 | Arbres de décision | `nbs/14-arbres-de-decision/` |
 | 15 | Bagging, forêts aléatoires et boosting | `nbs/15-bagging-forets-aleatoires-boosting/` |
 | 16 | Machines à vecteurs de support | `nbs/16-svm/` |
 | 17 | Métriques et évaluation des modèles de classification | `nbs/17-evaluation-models-classification/` |
