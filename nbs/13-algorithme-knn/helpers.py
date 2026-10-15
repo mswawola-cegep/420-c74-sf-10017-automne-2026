@@ -43,9 +43,8 @@ def plot_classifier(X_train, y_train, classifier, scaler, order=1, grid=100, xla
     axes[0].set_xlabel(xlabel)
     axes[0].set_ylabel(ylabel)
     
-    labels = ['Frontière de décision']
-    for i in range(len(labels)):
-        CS.collections[i].set_label(labels[i])
+    # ContourSet.collections a été retiré de matplotlib (>= 3.10) => entrée de légende ajoutée manuellement
+    axes[0].plot([], [], color="g", label='Frontière de décision')
     axes[0].legend(loc='lower left')
     
     CS2 = axes[1].contourf(XX, YY, z, 100, cmap="inferno")
