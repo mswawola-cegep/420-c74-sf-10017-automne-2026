@@ -4,9 +4,8 @@ env
 evals/
 papers/
 .claude
-nbs/22*/*solution*.ipynb
 nbs/23*/*solution*.ipynb
-nbs/24*
+nbs/24*/*solution*.ipynb
 nbs/25*
 nbs/26*
 nbs/27*
